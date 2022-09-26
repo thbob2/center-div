@@ -1,16 +1,24 @@
-<h1 align="center">Welcome to 5 ways to center a div doc page 👋</h1>
+<h1 align="center">Welcome to center-div 👋</h1>
 <p>
-  <a href="https://www.npmjs.com/package/5 ways to center a div doc page" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/5 ways to center a div doc page.svg">
+  <img alt="Version" src="https://img.shields.io/badge/version-2-blue.svg?cacheSeconds=2592000" />
+  <a href="https://twitter.com/chouaibBoe" target="_blank">
+    <img alt="Twitter: chouaibBoe" src="https://img.shields.io/twitter/follow/chouaibBoe.svg?style=social" />
   </a>
 </p>
 
-> responsive doc page
+> Responsive documentation page
+
+### 🏠 [Homepage](https://thbob2.github.io/center-div/)
+
+### ✨ [Demo](https://thbob2.github.io/center-div/)
 
 ## Author
 
-👤 **thbob2**
+👤 **Chouaib Boubekeur**
 
+* Twitter: [@chouaibBoe](https://twitter.com/chouaibBoe)
+* Github: [@thbob2](https://github.com/thbob2)
+* LinkedIn: [@chouaib-boubekeur](https://linkedin.com/in/chouaib-boubekeur)
 
 ## Show your support
 
